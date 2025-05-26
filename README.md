@@ -39,7 +39,12 @@ A beautiful and automated daily check-in bot for Somnia Network that helps you m
    touch .env
    ```
 
-4. **Start the bot**
+4. **Build to TypeScript**
+   ```bash
+   npm run build
+   ```
+
+5. **Start the bot**
    ```bash
    npm start
    ```
