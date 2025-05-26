@@ -229,7 +229,7 @@ npm run dev
 
 ## 📝 Changelog
 
-### v1.0.0 (2025-01-27)
+### v1.0.0 (2025-05-27)
 - Initial release
 - Multi-wallet support
 - Automatic scheduling
