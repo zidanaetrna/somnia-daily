@@ -25,7 +25,7 @@ A beautiful and automated daily check-in bot for Somnia Network that helps you m
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/somnia-checkin-bot.git
+   git clone https://github.com/zidanaetrna/somnia-daily.git
    cd somnia-checkin-bot
    ```
 
@@ -218,7 +218,7 @@ Contributions are welcome! Please:
 
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/somnia-checkin-bot.git
+git clone https://github.com/zidanaetrna/somnia-daily.git
 
 # Install dependencies
 npm install
