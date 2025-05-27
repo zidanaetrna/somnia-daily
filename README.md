@@ -142,12 +142,12 @@ The bot runs automatically, but you can:
 ### Architecture
 
 ```
-src/
+./
 ├── index.ts          # Main bot logic
-├── types/            # TypeScript interfaces
-├── services/         # Service classes (Somnia, etc.)
-├── utils/            # Utility functions
-└── config/           # Configuration management
+├── tsconfig.json     # TypeScript Configuration
+├── package.json      # All Javascript Packages
+├── Readme            # The file that you can read right now
+└── License           # License is MIT Don't worry
 ```
 
 ### Dependencies
@@ -256,9 +256,9 @@ Copyright (c) 2025 zidanaetrna
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/somnia-checkin-bot/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/somnia-checkin-bot/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/zidanaetrna/somnia-daily/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/zidanaetrna/somnia-daily/discussions)
+- **Email**: tumbaldiscord292@gmail.com
 
 ---
 
