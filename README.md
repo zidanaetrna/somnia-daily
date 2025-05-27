@@ -242,6 +242,11 @@ npm run dev
 - Statistics tracking
 - Error handling and retry logic
 
+### v2.0.0 (2025-05-28)
+- Fixing some minor Issues related to api call
+- Changing Readme to be more readable
+- Adding alias for wallet (Optional)
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
